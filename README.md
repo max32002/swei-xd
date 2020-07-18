@@ -4,7 +4,7 @@
 
 獅尾XD珍珠的特色是，上半邊黑體+下半邊圓體，一個綜合的字體，「口」字會有一點點像XD的開口笑符號。
 
-![字體預覽](https://github.com/max32002/swei-xd-pearl/raw/master/preview/welcome.png)
+![字體預覽](https://github.com/max32002/swei-xd/raw/master/preview/welcome.png)
 
 ## 與其他字體的比較
 * 在「刂」的筆畫，獅尾比較相似台灣(教育部國字標準字體)教育部推薦字體筆順。
@@ -30,7 +30,7 @@
 
 ## 附註
 
-* 演算黑科技將字體右半邊變圓，請參考 /python/ 目錄下的腳本檔案。透過調整程式碼，也許也可以產生出新的有趣字型。目前的程式應該還有很多錯誤或需要再加強的地方。請先把要處理的字型，轉成 FontForge 的 sfdir, 再透過程式去處理產生出來的檔案。
+* 演算黑科技將字體下半邊變圓改造，請參考 /python/ 目錄下的腳本檔案。透過調整程式碼，也許也可以產生出新的有趣字型。目前的程式應該還有很多錯誤或需要再加強的地方。請先把要處理的字型，轉成 FontForge 的 sfdir, 再透過程式去處理產生出來的檔案。
 
 ## 著作權與授權
 
@@ -43,6 +43,8 @@
     
 ## 相關網頁
 
+* 獅尾XD珍珠 Swei.XD.Pearl
+https://max-everyday.com/2020/07/swei-xd-pearl/
 * 獅尾B2黑體 Swei B2 Sans
 https://max-everyday.com/2020/07/swei-b2-sans/
 * 獅尾B2宋朝 Swei B2 Serif
