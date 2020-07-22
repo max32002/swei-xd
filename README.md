@@ -6,6 +6,9 @@
 
 ![字體預覽](https://github.com/max32002/swei-xd/raw/master/preview/welcome.png)
 
+和思源黑體一樣，支援7種的字重：
+![字體比較預覽](https://github.com/max32002/swei-xd/raw/master/preview/compare_style.png)
+
 ## 與其他字體的比較
 * 在「刂」的筆畫，獅尾比較相似台灣(教育部國字標準字體)教育部推薦字體筆順。
 * 在「肉」、「糸」、「女」、「辶」、「食」的筆畫，獅尾比較相似台灣教育部推薦字體筆順，適合教育用途。
